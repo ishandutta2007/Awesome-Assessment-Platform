@@ -48,46 +48,46 @@ Below is a breakdown of commercial assessment software, sorted by estimated comp
 
 ## 🔓 Open-Source Assessment Platforms & Engines
 
-A list of open-source e-testing systems, LMS quiz modules, and code execution backends, sorted by GitHub Star Count (descending) 🌟.
+A list of open-source e-testing systems, LMS quiz modules, and code execution backends, sorted by GitHub Stars_Count (descending) 🌟.
 
 - **[Moodle Quiz Subsystem](https://github.com/moodle/moodle)** 🏫  
-  [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers)  
   Mature, enterprise-grade open-source LMS featuring a comprehensive quiz authoring engine, item banks, randomized question sets, automated grading, and extensive proctoring plugin ecosystem.
 
 - **[Canvas LMS (Open Core)](https://github.com/instructure/canvas-lms)** 📚  
-  [![GitHub stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white)](https://github.com/instructure/canvas-lms/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white)](https://github.com/instructure/canvas-lms/stargazers)  
   Popular open-source learning management platform used by universities and schools worldwide with native assessment features, rubrics, and quiz delivery tools.
 
 - **[SurveyJS Library](https://github.com/surveyjs/survey-library)** 📝  
-  [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)  
   JavaScript form and survey library for building interactive quizzes, psychometric evaluations, and data-driven assessment forms in web applications.
 
 - **[Judge0 Code Execution Engine](https://github.com/judge0/judge0)** ⚡  
-  [![GitHub stars](https://img.shields.io/github/stars/judge0/judge0?style=social&color=white)](https://github.com/judge0/judge0/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/judge0/judge0?style=social&color=white)](https://github.com/judge0/judge0/stargazers)  
   Robust open-source online code execution system and API for technical assessments, coding challenges, and programming exams supporting over 60 languages.
 
 - **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** 📊  
-  [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
   Leading open-source online survey tool adaptable for low-stakes online testing, evaluation forms, market research, and candidate questionnaires.
 
 - **[Formio.js](https://github.com/Formio/formio.js)** 🛠️  
-  [![GitHub stars](https://img.shields.io/github/stars/Formio/formio.js?style=social&color=white)](https://github.com/Formio/formio.js/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/Formio/formio.js?style=social&color=white)](https://github.com/Formio/formio.js/stargazers)  
   Combined JSON schema form builder and rendering engine for building dynamic assessment interfaces and multi-page exam flows.
 
 - **[ILIAS eLearning System](https://github.com/ILIAS-eLearning/ILIAS)** 🎓  
-  [![GitHub stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social&color=white)](https://github.com/ILIAS-eLearning/ILIAS/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social&color=white)](https://github.com/ILIAS-eLearning/ILIAS/stargazers)  
   Flexible open-source learning management platform equipped with specialized e-assessment components, question pools, and certification workflows.
 
 - **[TAO Community Edition](https://github.com/oat-sa/package-tao)** 🌐  
-  [![GitHub stars](https://img.shields.io/github/stars/oat-sa/package-tao?style=social&color=white)](https://github.com/oat-sa/package-tao/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/oat-sa/package-tao?style=social&color=white)](https://github.com/oat-sa/package-tao/stargazers)  
   Leading open-source QTI-compliant (IMS Global standard) e-testing platform for open architecture authoring, test delivery, and interoperable item banks.
 
 - **[Safe Exam Browser (SEB)](https://github.com/SafeExamBrowser/seb-mac)** 🔒  
-  [![GitHub stars](https://img.shields.io/github/stars/SafeExamBrowser/seb-mac?style=social&color=white)](https://github.com/SafeExamBrowser/seb-mac/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/SafeExamBrowser/seb-mac?style=social&color=white)](https://github.com/SafeExamBrowser/seb-mac/stargazers)  
   Custom web browser environment used to securely carry out e-assessments online by locking down unapproved software and web navigation.
 
 - **[QST (Quiz/Survey/Test)](https://github.com/bobb34/QST)** 🧪  
-  [![GitHub stars](https://img.shields.io/github/stars/bobb34/QST?style=social&color=white)](https://github.com/bobb34/QST/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/bobb34/QST?style=social&color=white)](https://github.com/bobb34/QST/stargazers)  
   Multi-tenant, self-hosted open-source online assessment software designed for secure creation and delivery of exams, quizzes, and surveys.
 
 ---
@@ -130,7 +130,7 @@ Your support helps maintain and grow this resource! If you'd like to buy me a co
 
 ## ⚠️ Disclaimer
 
-This repository is community-curated for informational and educational purposes. Financial estimates and star counts are regularly updated but subject to vendor changes. High-stakes testing deployment requires thorough security audit, accessibility validation, and compliance verification.
+This repository is community-curated for informational and educational purposes. Financial estimates and Stars_Counts are regularly updated but subject to vendor changes. High-stakes testing deployment requires thorough security audit, accessibility validation, and compliance verification.
 
 ---
 
